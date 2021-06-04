@@ -1,0 +1,14 @@
+@charset "ISO-8859-1";
+.masthead {
+  height: 100vh;
+  min-height: 500px;
+  background-image: url('../image/HomeSlider1.jpg');
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+}
+.no-border-my {
+    border: 0;
+    box-shadow: none; /* You may want to include this as bootstrap applies these styles too */
+    text-align: right;
+}
